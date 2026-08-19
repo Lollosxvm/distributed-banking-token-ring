@@ -124,5 +124,5 @@ il corretto comportamento del sistema.
   sezione critica). Commentato in dettaglio.
 - `config.py` — topologia dell'anello, porte, saldo iniziale, transazioni.
 - `start_all.ps1` — script opzionale per avviare i 4 terminali.
-
+- `demo.mp4` — video dimostrativo con i 4 terminali in esecuzione.
 
