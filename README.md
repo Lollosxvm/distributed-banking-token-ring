@@ -125,10 +125,4 @@ il corretto comportamento del sistema.
 - `config.py` — topologia dell'anello, porte, saldo iniziale, transazioni.
 - `start_all.ps1` — script opzionale per avviare i 4 terminali.
 
----
 
-## 5. Link al Repository GitHub
-> Inserire qui il link al repository GitHub personale contenente questo codice
-> e il video dimostrativo:
->
-> **https://github.com/<utente>/<repository>**
